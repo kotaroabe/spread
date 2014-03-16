@@ -8,5 +8,7 @@ Partlist
 4. IR LED
 5. battery packs (if you want to use one outside)
 
+How to control a camera refers to <http://sebastian.setz.name/arduino/my-libraries/multi-camera-ir-control/>
+
 =========
 unsettled project by Kotaro Abe + Yasuaki Kakehi
